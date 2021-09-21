@@ -1,0 +1,73 @@
+.App{
+    background-image: url("../src/assests/whetherbackground2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* filter: blur(1px);    */
+    height: 100vh;
+    width: 98vw;
+   text-align: center;
+   color: white;
+}
+.App_Content{
+   
+}
+.form{
+    display: flex;
+    justify-content: center;
+    margin-top: 15vh;
+}
+.form_input{
+    width: 20vw;
+    margin: 0 1%;
+    padding: 0 2%;
+}
+.App_Content_heading{
+    font-size: xxx-large;
+    padding: 1%;
+    background-color: rgb(22, 21, 21);
+}
+.card {
+    background-color: rgb(87, 87, 173);
+    transform-style: preserve-3d;
+    margin-top: 1%;
+ height: auto;
+    width: 38rem;
+    border-radius: 30px;
+    padding: 0rem 5rem;
+    color:black;
+    /* align-self: center; */
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
+    font-family: 'Grechen Fuemen', cursive;
+}
+.Wheather img{
+    width: 30%;
+}
+.Whether_text{
+   font-size: xx-large;
+   font-weight: 700;
+}
+.Wheather_temp{
+    font-size: xxx-large;
+    font-weight: 900;
+}
+.Wheather_locationanme{
+    font-size: 4em;
+   
+}
+.col_data_header{
+    margin: 2%;
+}
+.whet{
+    margin: 3%;
+    /* margin-left: 100px; */
+}
+.col_data_header{
+ font-size: x-large;
+  width: fit-content;
+}
+.col_data_container_n{
+    /* width: fit-content; */
+}
+.col_data_container_n{
+    font-size: x-large;
+}
