@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Wheatherbucket/static/css/main.234ca9e0.chunk.css",
+    "main.js": "/Wheatherbucket/static/js/main.21fe89e1.chunk.js",
+    "main.js.map": "/Wheatherbucket/static/js/main.21fe89e1.chunk.js.map",
+    "runtime-main.js": "/Wheatherbucket/static/js/runtime-main.4a3d3f74.js",
+    "runtime-main.js.map": "/Wheatherbucket/static/js/runtime-main.4a3d3f74.js.map",
+    "static/js/2.a53d7bb3.chunk.js": "/Wheatherbucket/static/js/2.a53d7bb3.chunk.js",
+    "static/js/2.a53d7bb3.chunk.js.map": "/Wheatherbucket/static/js/2.a53d7bb3.chunk.js.map",
+    "index.html": "/Wheatherbucket/index.html",
+    "static/css/main.234ca9e0.chunk.css.map": "/Wheatherbucket/static/css/main.234ca9e0.chunk.css.map",
+    "static/js/2.a53d7bb3.chunk.js.LICENSE.txt": "/Wheatherbucket/static/js/2.a53d7bb3.chunk.js.LICENSE.txt",
+    "static/media/humidity.9db9ecdb.svg": "/Wheatherbucket/static/media/humidity.9db9ecdb.svg",
+    "static/media/precipitous.9859b57d.svg": "/Wheatherbucket/static/media/precipitous.9859b57d.svg",
+    "static/media/App.css": "/Wheatherbucket/static/media/whetherbackground2.8a27344a.jpeg",
+    "static/media/wind.ff34bc8f.svg": "/Wheatherbucket/static/media/wind.ff34bc8f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a3d3f74.js",
+    "static/js/2.a53d7bb3.chunk.js",
+    "static/css/main.234ca9e0.chunk.css",
+    "static/js/main.21fe89e1.chunk.js"
+  ]
+}
