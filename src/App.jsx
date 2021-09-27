@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="App">
       <div className="App_Content">
-        <div className="App_Content_heading">Wheather Bucket </div>
+        <div className="App_Content_heading">Weather Bucket </div>
         <div class="container ">
           <div class="row  ">
             <div class="col form">
@@ -49,7 +49,7 @@ function App() {
 
       </div>
       <div className="card offset-md-4">
-        {placeData.text ? (<h2>Enter the City name to Get the Wheather detail.</h2>) : (placeData.location ? (
+        {placeData.text ? (<h2>Enter the City name to Get the Weather detail.</h2>) : (placeData.location ? (
           <div className="Wheather">
             <img src={placeData.current.condition.icon} />
             <div className="Whether_text">{placeData.current.condition.text}</div>
