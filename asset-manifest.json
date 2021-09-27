@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/WeatherBucket/static/css/main.c11881db.chunk.css",
-    "main.js": "/WeatherBucket/static/js/main.1b65ca75.chunk.js",
-    "main.js.map": "/WeatherBucket/static/js/main.1b65ca75.chunk.js.map",
-    "runtime-main.js": "/WeatherBucket/static/js/runtime-main.ea3340b3.js",
-    "runtime-main.js.map": "/WeatherBucket/static/js/runtime-main.ea3340b3.js.map",
-    "static/js/2.a78a71ce.chunk.js": "/WeatherBucket/static/js/2.a78a71ce.chunk.js",
-    "static/js/2.a78a71ce.chunk.js.map": "/WeatherBucket/static/js/2.a78a71ce.chunk.js.map",
-    "index.html": "/WeatherBucket/index.html",
-    "static/css/main.c11881db.chunk.css.map": "/WeatherBucket/static/css/main.c11881db.chunk.css.map",
-    "static/js/2.a78a71ce.chunk.js.LICENSE.txt": "/WeatherBucket/static/js/2.a78a71ce.chunk.js.LICENSE.txt",
-    "static/media/humidity.9db9ecdb.svg": "/WeatherBucket/static/media/humidity.9db9ecdb.svg",
-    "static/media/precipitous.9859b57d.svg": "/WeatherBucket/static/media/precipitous.9859b57d.svg",
-    "static/media/App.css": "/WeatherBucket/static/media/whetherbackground2.8a27344a.jpeg",
-    "static/media/wind.ff34bc8f.svg": "/WeatherBucket/static/media/wind.ff34bc8f.svg"
+    "main.css": "/Weather-Bucket/static/css/main.d8e2051e.chunk.css",
+    "main.js": "/Weather-Bucket/static/js/main.1b65ca75.chunk.js",
+    "main.js.map": "/Weather-Bucket/static/js/main.1b65ca75.chunk.js.map",
+    "runtime-main.js": "/Weather-Bucket/static/js/runtime-main.92878b64.js",
+    "runtime-main.js.map": "/Weather-Bucket/static/js/runtime-main.92878b64.js.map",
+    "static/js/2.a78a71ce.chunk.js": "/Weather-Bucket/static/js/2.a78a71ce.chunk.js",
+    "static/js/2.a78a71ce.chunk.js.map": "/Weather-Bucket/static/js/2.a78a71ce.chunk.js.map",
+    "index.html": "/Weather-Bucket/index.html",
+    "static/css/main.d8e2051e.chunk.css.map": "/Weather-Bucket/static/css/main.d8e2051e.chunk.css.map",
+    "static/js/2.a78a71ce.chunk.js.LICENSE.txt": "/Weather-Bucket/static/js/2.a78a71ce.chunk.js.LICENSE.txt",
+    "static/media/humidity.9db9ecdb.svg": "/Weather-Bucket/static/media/humidity.9db9ecdb.svg",
+    "static/media/precipitous.9859b57d.svg": "/Weather-Bucket/static/media/precipitous.9859b57d.svg",
+    "static/media/App.css": "/Weather-Bucket/static/media/whetherbackground2.8a27344a.jpeg",
+    "static/media/wind.ff34bc8f.svg": "/Weather-Bucket/static/media/wind.ff34bc8f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea3340b3.js",
+    "static/js/runtime-main.92878b64.js",
     "static/js/2.a78a71ce.chunk.js",
-    "static/css/main.c11881db.chunk.css",
+    "static/css/main.d8e2051e.chunk.css",
     "static/js/main.1b65ca75.chunk.js"
   ]
 }
